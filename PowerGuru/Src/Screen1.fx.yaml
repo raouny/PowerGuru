@@ -115,7 +115,7 @@ Screen1 As screen:
             ZIndex: =8
 
         Subtitle1_4 As label:
-            Font: =Font.Lato
+            Font: =Font.Arial
             Height: =70
             OnSelect: =Select(Parent)
             PaddingBottom: =0
@@ -168,7 +168,7 @@ Screen1 As screen:
 
     Label3 As label:
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Bold
         Height: =35
         Text: ="Recherche par puissance"
