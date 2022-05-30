@@ -4,7 +4,7 @@ Screen1_1 As screen:
         BorderColor: =RGBA(179, 179, 179, 1)
         BorderThickness: =1
         Default: =""
-        Font: =Font.Lato
+        Font: =Font.Arial
         Height: =32
         HintText: ="Recherche par réference, vendeur, nom ... etc."
         RadiusBottomLeft: =3
@@ -29,7 +29,7 @@ Screen1_1 As screen:
 
     Label3_1 As label:
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Bold
         Height: =35
         Text: ="Recherche par puissance"
@@ -40,7 +40,7 @@ Screen1_1 As screen:
 
     Label4_4 As label:
         Align: =Right
-        Font: =Font.Lato
+        Font: =Font.Arial
         Height: =21
         Size: =11
         Text: =Min(Products, Max_motor_output_at_variable_torque__ND_) & " Kw"
@@ -51,7 +51,7 @@ Screen1_1 As screen:
 
     Label4_5 As label:
         Align: =Right
-        Font: =Font.Lato
+        Font: =Font.Arial
         Height: =21
         Size: =11
         Text: =Max(Products, Max_motor_output_at_variable_torque__ND_) & " Kw"
@@ -62,7 +62,7 @@ Screen1_1 As screen:
 
     Label4_3 As label:
         Align: =Center
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =44
         Size: =14
@@ -74,7 +74,7 @@ Screen1_1 As screen:
 
     PieChart1_1 As pieChart:
         Explode: =1
-        Font: =Font.Lato
+        Font: =Font.Arial
         Height: =162
         ItemBorderThickness: =1
         ItemColorSet: =[RGBA(42, 159, 188, 1),RGBA(107, 198, 179, 1), RGBA(231, 99, 105, 1) ]
@@ -124,7 +124,7 @@ Screen1_1 As screen:
     Label6_30 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -138,7 +138,7 @@ Screen1_1 As screen:
     Label6_32 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -152,7 +152,7 @@ Screen1_1 As screen:
     Label6_35 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =23
         Size: =12
@@ -166,7 +166,7 @@ Screen1_1 As screen:
     Label6_36 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =23
         Size: =12
@@ -180,7 +180,7 @@ Screen1_1 As screen:
     Label6_39 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -194,7 +194,7 @@ Screen1_1 As screen:
     Label6_40 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -208,7 +208,7 @@ Screen1_1 As screen:
     Label6_42 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -222,7 +222,7 @@ Screen1_1 As screen:
     Label6_44 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -236,7 +236,7 @@ Screen1_1 As screen:
     Label6_46 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -250,7 +250,7 @@ Screen1_1 As screen:
     Label6_50 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -264,7 +264,7 @@ Screen1_1 As screen:
     Label6_48 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -278,7 +278,7 @@ Screen1_1 As screen:
     Label6_52 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -292,7 +292,7 @@ Screen1_1 As screen:
     Label6_54 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -306,7 +306,7 @@ Screen1_1 As screen:
     Label6_56 As label:
         Align: =Right
         Color: =RGBA(0, 94, 184, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =26
         Size: =12
@@ -319,7 +319,7 @@ Screen1_1 As screen:
 
     Label6_31 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -332,7 +332,7 @@ Screen1_1 As screen:
 
     Label6_33 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -345,7 +345,7 @@ Screen1_1 As screen:
 
     Label6_34 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -358,7 +358,7 @@ Screen1_1 As screen:
 
     Label6_37 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -371,7 +371,7 @@ Screen1_1 As screen:
 
     Label6_38 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -384,7 +384,7 @@ Screen1_1 As screen:
 
     Label6_41 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -397,7 +397,7 @@ Screen1_1 As screen:
 
     Label6_43 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =26
         Size: =12
@@ -410,7 +410,7 @@ Screen1_1 As screen:
 
     Label6_45 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -423,7 +423,7 @@ Screen1_1 As screen:
 
     Label6_47 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -436,7 +436,7 @@ Screen1_1 As screen:
 
     Label6_49 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -449,7 +449,7 @@ Screen1_1 As screen:
 
     Label6_51 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -462,7 +462,7 @@ Screen1_1 As screen:
 
     Label6_53 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -475,7 +475,7 @@ Screen1_1 As screen:
 
     Label6_55 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -488,7 +488,7 @@ Screen1_1 As screen:
 
     Label6_57 As label:
         Align: =Left
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Normal
         Height: =24
         Size: =12
@@ -502,7 +502,7 @@ Screen1_1 As screen:
     Label6_29 As label:
         Align: =Left
         Color: =RGBA(231, 99, 105, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Semibold
         Height: =38
         Size: =16
@@ -521,7 +521,7 @@ Screen1_1 As screen:
 
     Label2_1 As label:
         Color: =RGBA(255, 255, 255, 1)
-        Font: =Font.Lato
+        Font: =Font.Arial
         FontWeight: =Bold
         Height: =41
         Size: =24
