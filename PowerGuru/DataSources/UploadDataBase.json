@@ -1,0 +1,9 @@
+[
+  {
+    "AddinConnectorId": "b4a54e84-9342-45dd-814b-b6597a67c14e",
+    "AddinId": "6d1f157d-95bf-406d-b65d-cfd3240f724e",
+    "Name": "UploadDataBase",
+    "ServiceKind": "AddinWadl",
+    "Type": "ServiceInfo"
+  }
+]

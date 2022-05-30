@@ -1,0 +1,37 @@
+[
+  {
+    "ApiId": "/providers/microsoft.powerapps/apis/shared_excel",
+    "CdpRevision": {
+      "BaseUrl": "/",
+      "LastChangedTimeString": "2021-09-28T16:36:48.9680000Z",
+      "RevisionNumber": 1
+    },
+    "ConnectedDataSourceInfoNameMapping": {
+      "__PowerAppsId__": "Row id",
+      "Built_in_EMC_filter": "Built_in_EMC_filter",
+      "Communication_option_s_": "Communication_option_s_",
+      "Communication_port_s_": "Communication_port_s_",
+      "Compatible_motor_type": "Compatible_motor_type",
+      "Degree_of_protection__IP_": "Degree_of_protection__IP_",
+      "Depth": "Depth",
+      "Drive_supply_voltage": "Drive_supply_voltage",
+      "Finless_type": "Finless_type",
+      "Height": "Height",
+      "Image": "Image",
+      "Inverter_control_method": "Inverter_control_method",
+      "Max_motor_output_at_constant_torque__HD_": "Max_motor_output_at_constant_torque__HD_",
+      "Max_motor_output_at_variable_torque__ND_": "Max_motor_output_at_variable_torque__ND_",
+      "Ref": "Ref",
+      "Regenerative_solutions": "Regenerative_solutions",
+      "Vendor": "Vendor",
+      "Weight": "Weight",
+      "Width": "Width"
+    },
+    "DatasetName": "b!2-ghyefeF0W8ClHeWeAw6RYMj4V2x6pOnGJnZCWPoBLnbypSwIdISb3wJBf-c--K.01SHEMT7CWUTK2SCMYRVEYPQKSRIOG4NUD",
+    "EncodeDataset": true,
+    "IsSampleData": false,
+    "IsWritable": true,
+    "Name": "Table1_1",
+    "Type": "ConnectedDataSourceInfo"
+  }
+]

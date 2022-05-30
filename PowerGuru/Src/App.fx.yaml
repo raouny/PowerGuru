@@ -1,0 +1,17 @@
+App As appinfo:
+    BackEnabled: =false
+    OnStart: |-
+        =ClearCollect(Products, Table1);
+        Set(popup, false);
+        //Group by and count code
+        ClearCollect(
+            GroupedItems,
+            DropColumns(
+                AddColumns(
+                    GroupBy(Products,"Vendor","GroupedItems"),
+                "Count Value",CountRows(GroupedItems)
+                ),
+            "GroupedItems"
+            )
+        ); 
+
