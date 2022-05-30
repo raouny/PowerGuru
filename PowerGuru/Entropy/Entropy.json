@@ -4,6 +4,7 @@
     "App": 1,
     "Gallery1": 25,
     "galleryTemplate1": 26,
+    "HtmlText2": 71,
     "Icon1": 10,
     "Icon2": 29,
     "Image1": 27,
@@ -62,7 +63,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/30/2022 12:16:46",
+  "HeaderLastSavedDateTimeUTC": "05/30/2022 12:20:01",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "16cf407e-44d1-4c76-9239-f2fef37fdad0": "\"/providers/microsoft.powerapps/apis/shared_onedriveforbusiness/connections/4164812470bd4e40af4a265217010eb9\"",
@@ -91,6 +92,7 @@
   "OrderTemplate": {},
   "OrderXMLTemplate": {
     "gallery": 7,
+    "htmlViewer": 8,
     "icon": 3,
     "image": 6,
     "label": 1,
@@ -103,6 +105,7 @@
     "App": 0,
     "Gallery1": 21,
     "galleryTemplate1": 22,
+    "HtmlText2": 0,
     "Icon1": 6,
     "Icon2": 25,
     "Image1": 23,
