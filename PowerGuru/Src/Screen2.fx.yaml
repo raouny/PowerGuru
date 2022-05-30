@@ -1,7 +1,7 @@
 Screen2 As screen:
 
     Image2 As image:
-        Height: =215
+        Height: =89
         Image: |-
             ="data:image/svg+xml," & EncodeUrl(
                 "<svg viewBox='0 0 1291 338' xmlns='http://www.w3.org/2000/svg'>
@@ -14,14 +14,15 @@ Screen2 As screen:
                     unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
                   }
                     
-                .custom { font: 128px GloriaHallelujah }
+                .custom { font: 200px GloriaHallelujah }
               </style>
             
               <text x='20' y='120' class='custom'>Ceci est un tesr</text>
             </svg>"
             )
-        Width: =933
-        X: =104
-        Y: =472
+        ImagePosition: =ImagePosition.Stretch
+        Width: =256
+        X: =60
+        Y: =112
         ZIndex: =1
 
