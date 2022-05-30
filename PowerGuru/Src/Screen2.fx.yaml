@@ -29,7 +29,7 @@ Screen2 As screen:
     HtmlText2 As htmlViewer:
         Height: =81
         HtmlText: |-
-            ="<label style='font-family: PT Sans, cursive; font-size: 25px; font-weight: bold'>This is a test</label>"
+            ="<label style='font-family: Arial; font-size: 25px; font-weight: bold'>This is a test</label>"
         Width: =412
         X: =612
         Y: =448
