@@ -83,12 +83,11 @@
     "FileID": "ec75e991-4ec2-4380-9ec5-159d3d67e8d3",
     "Id": "ec75e991-4ec2-4380-9ec5-159d3d67e8d3",
     "InstrumentationKey": "",
-    "LocalDatabaseReferences": "{}",
-    "Name": "Demo App-Rad",
+    "Name": "Demo App-Rad V2",
     "OriginatingVersion": "1.317"
   },
   "PublishInfo": {
-    "AppName": "Demo App-Rad",
+    "AppName": "Demo App-Rad V2",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",

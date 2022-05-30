@@ -139,6 +139,15 @@ Screen1 As screen:
             Y: =13
             ZIndex: =10
 
+        Icon3 As icon.NextArrow:
+            Height: =41
+            Icon: =Icon.NextArrow
+            OnSelect: =Notify( "Hello, World", NotificationType.Error)
+            Width: =36
+            X: =1260
+            Y: =24
+            ZIndex: =11
+
     searchtxt As text:
         BorderColor: =RGBA(179, 179, 179, 1)
         BorderThickness: =1
@@ -673,7 +682,7 @@ Screen1 As screen:
         Height: =41
         Size: =24
         Text: ="Omron    |   Variateurs de fréquence"
-        Width: =524
+        Width: =619
         X: =21
         Y: =21
         ZIndex: =49

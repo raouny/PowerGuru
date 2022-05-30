@@ -1,7 +1,8 @@
 App As appinfo:
     BackEnabled: =false
     OnStart: |-
-        =ClearCollect(Products, Table1);
+        =
+        ClearCollect(Products, Table1);
         Set(popup, false);
         //Group by and count code
         ClearCollect(

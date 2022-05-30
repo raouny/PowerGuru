@@ -1,0 +1,9 @@
+[
+  {
+    "AddinConnectorId": "c5e9cb4b-3e0d-4b61-914d-f204df7ed81a",
+    "AddinId": "6d1f157d-95bf-406d-b65d-cfd3240f724e",
+    "Name": "PowerAppsAction",
+    "ServiceKind": "AddinWadl",
+    "Type": "ServiceInfo"
+  }
+]

@@ -55,6 +55,38 @@
     "dependents": [],
     "id": "171a6693-effe-41df-a24d-aaf168b92d85"
   },
+  "1f10cd2e-b17d-43c8-95ee-f2cde9bbeffb": {
+    "connectionParameters": {
+      "workFlowCallbackUri": "https://prod-168.westeurope.logic.azure.com:443/workflows/afa37cddbd6b419a86dd5fa791aad882/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=Sn6wYuPHFZYtKHc0jZFwiRm_py3zLZOTymq6mzXezho",
+      "workflowEndpoint": "/subscriptions/3a3c8f3a-b051-4389-add3-35f0cadf681c/resourceGroups/33440fc6b7c7412cbb730e70b0198d5a-4ca12c82912643aa8f842e5a529f6d7e/providers/Microsoft.Logic/workflows/c5e9cb4b-3e0d-4b61-914d-f204df7ed81a",
+      "workflowName": "c5e9cb4b-3e0d-4b61-914d-f204df7ed81a",
+      "workflowPath": "/subscriptions/3a3c8f3a-b051-4389-add3-35f0cadf681c/resourceGroups/33440fc6b7c7412cbb730e70b0198d5a-4ca12c82912643aa8f842e5a529f6d7e/providers/Microsoft.Logic/workflows/c5e9cb4b-3e0d-4b61-914d-f204df7ed81a"
+    },
+    "connectionRef": {
+      "displayName": "Flux logiques",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1534/1.0.1534.2605/logicflows/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_logicflows",
+      "parameterHints": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "c5e9cb4b-3e0d-4b61-914d-f204df7ed81a"
+        }
+      },
+      "parameterHintsV2": {
+        "workflowEntityId": {},
+        "workflowName": {
+          "value": "c5e9cb4b-3e0d-4b61-914d-f204df7ed81a"
+        }
+      }
+    },
+    "datasets": {},
+    "dataSources": [
+      "PowerAppsAction"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "1f10cd2e-b17d-43c8-95ee-f2cde9bbeffb"
+  },
   "4e3d4b0e-e61d-4456-aefc-5e17e3f574d5": {
     "connectionParameters": {},
     "connectionRef": {

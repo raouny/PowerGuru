@@ -536,41 +536,23 @@ Screen1_1 As screen:
         DisplayMode: =DisplayMode.Edit
         Fill: =RGBA(0, 0, 0, 0)
         Height: =414
-        Items: |-
-            =Filter(Products, 
-                         (StartsWith(Ref, searchtxt_1.Text) And Max_motor_output_at_variable_torque__ND_ >= Slider1_1.Value) Or
-                         (StartsWith(Vendor, searchtxt_1.Text) And Max_motor_output_at_variable_torque__ND_ >= Slider1_1.Value)
-                         )
+        Items: ='1 de table (Actions)s'
         Width: =1284
         X: =49
         Y: =341
         ZIndex: =50
 
-        Ref_Colonne1 As dataTableColumn.textualColumn:
+        "'(Deprecated) Stage Id_Colonne1' As dataTableColumn.textualColumn":
             DisplayMode: =DisplayMode.Edit
-            FieldDisplayName: ="Ref"
-            FieldName: ="Ref"
+            FieldDisplayName: ="(Deprecated) Stage Id"
+            FieldName: ="stageid"
             FieldVariantName: ="textualColumn"
             Height: =Parent.Height
             LayoutHeight: =Parent.Height
             Order: =1
-            Text: =ThisItem.Ref
+            Text: =ThisItem.'(Deprecated) Stage Id'
             Width: =100
             X: =0
             Y: =0
             ZIndex: =1
-
-        Height_Colonne1 As dataTableColumn.textualColumn:
-            DisplayMode: =DisplayMode.Edit
-            FieldDisplayName: ="Height"
-            FieldName: ="Height"
-            FieldVariantName: ="textualColumn"
-            Height: =Parent.Height
-            LayoutHeight: =Parent.Height
-            Order: =2
-            Text: =ThisItem.Height
-            Width: =100
-            X: =0
-            Y: =0
-            ZIndex: =2
 
